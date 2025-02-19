@@ -2,7 +2,15 @@ title: Mao Kimlang
 logo: circle.png
 description: A highly motivated senior data science student passionate about leveraging data to solve real-world problems. My goal is to uncover actionable insights that drive business growth and innovation. 
 theme: minimal
+
 author:
   name: Mao Kimlang
   email: your.email@example.com
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Custom Variables
+welcome_message: "Welcome to my portfolio!"
 
