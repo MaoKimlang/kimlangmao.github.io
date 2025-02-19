@@ -12,7 +12,9 @@
 **Objective:** The goal is to create a practical and efficient cashier system **(POS)** for a coffee shop, leveraging the MySQL database for data storage and the Flask web framework for the application logic and user interface.  
 
 **Results**:   
-<img src="images/Interface.jpg" width="200"/> <img src="images/All item.jpg" width="200"/> <img src="images/edit item.jpg.png" width="200"/>  
-<img src="images/project1_img4.png" width="200"/> <img src="images/project1_img5.png" width="200"/> <img src="images/project1_img6.png" width="200"/> <img src="images/project1_img7.png" width="200"/>  
+<img src="Interface.jpg" width="200"/> <img src="All item.jpg" width="200"/> <img src="edit item.jpg" width="200"/> <img src="edit item.jpg" width="200"/> 
+<img src="edit item.jpg" width="200"/> <img src="edit item.jpg" width="200"/> <img src="all orders.jpg" width="200"/> <img src="bill.jpg" width="200"/> 
+
+**🔗 [GitHub Repository](https://github.com/MaoKimlang/Coffee-sales-in-a-vending-machine)**
 
 
