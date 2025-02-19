@@ -1,9 +1,7 @@
+welcome_message: "Welcome to my portfolio!"
 logo: circle.png
 description: A highly motivated senior data science student passionate about leveraging data to solve real-world problems. My goal is to uncover actionable insights that drive business growth and innovation. 
-theme: minimal
 author:
   name: Mao Kimlang
   email: kimlangmao82@gmail.com
 theme: jeklly-theme-minimal
-welcome_message: "Welcome to my portfolio!"
-
