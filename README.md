@@ -15,6 +15,6 @@
 <img src="Interface.jpg" width="200"/> <img src="All item.jpg" width="200"/> <img src="edit item.jpg" width="200"/> <img src="edit item.jpg" width="200"/> 
 <img src="edit item.jpg" width="200"/> <img src="edit item.jpg" width="200"/> <img src="all orders.jpg" width="200"/> <img src="bill.jpg" width="200"/> 
 
-**🔗 [GitHub Repository](https://github.com/MaoKimlang/Coffee-sales-in-a-vending-machine)**
+**🔗 [GitHub Repository](https://github.com/MaoKimlang/Coffee-and-Bakery-Billing-Management-System-Project)**
 
 
